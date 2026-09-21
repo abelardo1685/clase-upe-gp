@@ -1,5 +1,6 @@
-# Material de trabajo: no se publica (los alumnos solo necesitan la guía, los notebooks y las láminas)
+# Material que no se publica (solo lo tengo yo)
 herramientas/
 guia/img/
+slides/
 .ipynb_checkpoints/
 __pycache__/
