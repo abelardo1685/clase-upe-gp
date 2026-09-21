@@ -27,8 +27,6 @@ con NumPy y después con scikit-learn, comprobando que las dos rutas dan el mism
 | `notebooks/02_proceso_gaussiano_desde_cero.ipynb` | El GP paso a paso: kernel, a priori, las seis líneas línea por línea, la respuesta, scikit-learn y la **suma de dos kernels** | 60 min |
 | `notebooks/03_tarea.ipynb` | Tarea: la misma ciudad con ritmo semanal → segundo kernel periódico | — |
 | `slides/Clase_UPE_GP_desde_cero.pptx` | Las láminas de la sesión | — |
-| `herramientas/ejecutados/` | Los mismos notebooks **con sus salidas**, para comparar resultados | — |
-| `herramientas/*.py` | Los guiones que generan los notebooks, las figuras y las láminas | — |
 
 ## Librerías
 
