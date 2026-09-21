@@ -1,4 +1,5 @@
-herramientas/solucion/
-herramientas/Guia_Entorno_completo_no_enviar.docx
+# Material de trabajo: no se publica (los alumnos solo necesitan la guía, los notebooks y las láminas)
+herramientas/
+guia/img/
 .ipynb_checkpoints/
 __pycache__/
